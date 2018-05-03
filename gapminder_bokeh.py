@@ -124,4 +124,4 @@ plot.add_tools(hover)
 
 layout = row(widgetbox(x_value,y_value,slider), plot)
 curdoc().add_root(layout)
-curdoc().title = "Sliders"
+curdoc().title = "Gapminder"
